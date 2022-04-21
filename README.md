@@ -8,7 +8,7 @@ Task: Making Simple Layout using 3 Framework
 
 ## Lab 2: Complex Layout and Interaction
 https://www.ida.liu.se/~TDDC73/labs/lab2.en.shtml  
-Language : Dart --> Flutter Project
+Language : Dart --> Flutter Project  
 Task: Credit Cards information registration layout and interaction
 
 ## Lab 3: Github with REST
