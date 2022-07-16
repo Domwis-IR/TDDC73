@@ -1,5 +1,5 @@
 # TDDC73 Interaction Programming
-2021-2 Interation Programming from Linköping University
+2021-2 Interation Programming from Linköping University in Sweden
 
 ## Lab 1: Layout in Kotlin + XML, Flutter, and React-Native
 https://www.ida.liu.se/~TDDC73/labs/lab1.en.shtml  
